@@ -1,0 +1,31 @@
+Title	Desc	Element	Type
+Fireball	Deal 3/5/7 damage to a single enemy.	F	Attack
+Conflagrate	Deal 1/2/3 damage to all enemies, including the boss. Only the highest level enemy retaliates.	F	Attack
+Wildfire	Deal 2/3/4 damage. If an enemy dies, you may deal this damage to another enemy. Only the first enemy retaliates.	F	Attack
+Incinerate	Deal 2/4/6 damage. You may exhaust one card from your hand.	F	Attack
+Combust	Deal 2/4/6 damage. If the enemy dies, do not proc any retaliation.	F	Attack
+Radiance	Take 1/2/3 less damage from everything for the remainder of your turn. 	F	Utility
+Water Gun	Deal 3/5/7 damage to a single enemy.	W	Attack
+Frostbite	Deal 2/4/6 damage and frostbite that enemy for the rest of your turn.	W	Attack
+Mend	Heal one player 2/4/6 health.	W	Utility
+Rejuvenate	Heal all players 1/2/3 health.	W	Utility
+Cultivate	If you have not used an ability this turn, pick a player. That player draws 2/3/4 elements and may learn one. Discard the rest. You are pacified.	W	Utility
+Foresight	Draw a card, then scry 1/2/3 cards from the boss deck.	W	Utility
+Stone Throw	Deal 3/5/7 damage to a single enemy	E	Attack
+Overwhelm	Deal 2/4/6 damage. Any excess damage is dealt to the boss. 	E	Attack
+Fearsome	Deal 2/4/6 damage. Enemies level three or below do not retaliate.	E	Attack
+Bulwark	Give one player 2/3/4 defense then deal damage to an enemy equal to how much defense you have.	E	Attack
+Shelter	Give all players 2/3/4 defense.	E	Utility
+Entomb	Bury the top 1/2/3 cards of your deck. End your turn.	E	Utility
+Air Strike	Deal 2 damage 1/2/3 times to any enemies. If hitting multiple enemies, only the highest level enemy retaliates. 	A	Attack
+Untouchable	Deal 1/2/3 damage. May target the boss even if a minion is alive. Do not proc any retaliation. 	A	Attack
+Suffocate	Execute a minion at or below 4/8/20 health. Passive: Draw 1 additional card at the start of your turn. 	A	Attack
+Brutality	Use any attack ability twice. Take 3/2/1 additional retaliation damage on the second attack.	A	Utility
+Dodge	Gain 1/2/3 dodge tokens. 	A	Utility
+Tax	Draw 1/2/3 cards. Discard a card every time you attack this turn. 	A	Utility
+Lifesteal	Deal 1/2/3 damage. Heal for the damage dealt.	F/W	Attack
+Double Strike	Deal 2/3/4 damage to two different enemies.	F/A	Attack
+Molten Skin	Gain 2/3/4 defense. Whenever you take damage (including retaliation damage), deal 2 damage to your attacker. If it’s self damage, deal it to any enemy.	F/E	Utility
+Split Defenses	Heal one player 2/3/4 health and give another player 2/3/4 defense	W/E	Utility
+Wealth 	Buy any card with element+1/2/3. Passive: Draw 1/2/3 additional cards during the elemental phase.	W/A	Utility
+Revive	Buy 1/2/3 cards. You may bury any or all of those cards.	E/A	Utility
